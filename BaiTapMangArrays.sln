@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapMangArrays", "BaiTapMangArrays.csproj", "{0E4566BF-89BA-4D7F-9AA9-6C81CB07CF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4566BF-89BA-4D7F-9AA9-6C81CB07CF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4566BF-89BA-4D7F-9AA9-6C81CB07CF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4566BF-89BA-4D7F-9AA9-6C81CB07CF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4566BF-89BA-4D7F-9AA9-6C81CB07CF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B3C1F7-4498-4E76-90E6-914ED4183D64}
+	EndGlobalSection
+EndGlobal
